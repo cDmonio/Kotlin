@@ -1,3 +1,8 @@
+//En este ejemplo tenemos las siguientes variables: valor y resultado
+//Utilizaremos valor1 y valor2 como val, que son variables inmutables, que quiere decir que su valor no cambia
+//Utilizaremos también resutlado como var, que es una variable mutable, su valor puede cambiar. y no hace falta inicializarla a 0.
+//vemos el ejemplo
+
 fun main(parametro: Array<String>) {
     //Esto es una variable inmutable (local) no se pueden cambiar su asignación
     val valor1: Int
